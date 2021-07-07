@@ -10,4 +10,4 @@ alert( 'Привет, мир!' );
 ```
 5. I have no experience yet, but I’m working on it
 6. HtmlAcademy, Coursera, Hexlet
-7. English lvl A2
+7. English A2
